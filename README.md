@@ -27,4 +27,4 @@
 
 📫 Reach Me
 
-LinkedIn: YOUR_LINKEDIN_LINK
+LinkedIn: www.linkedin.com/in/aditya-solanki-10a831240
