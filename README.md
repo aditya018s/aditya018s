@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋, I'm Aditya Singh
 
-<!--
-**aditya018s/aditya018s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Java Developer
 
-Here are some ideas to get you started:
+💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Spring Boot
+- React
+- JavaScript
+- MySQL
+- REST APIs
+- Git & GitHub
+
+🌱 Currently Learning
+
+- Docker
+- Kubernetes
+- AWS
+- Microservices
+
+🚀 Projects
+
+- Smart News App
+- Journal App
+- Banking System
+
+📫 Reach Me
+
+LinkedIn: YOUR_LINKEDIN_LINK
