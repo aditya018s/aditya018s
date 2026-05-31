@@ -1,4 +1,4 @@
-# Hi 👋, I'm Aditya Singh
+# Hi 👋, I'm Aditya Solanki
 
 ## Full Stack Java Developer
 
